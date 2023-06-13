@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Upgrade library and support flutter 3.10, dart 3
+
 ## 1.0.0
 
 * update packages & change name
