@@ -23,7 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_maps_flutter: ^2.0.6
+  
+  google_maps_flutter: ^2.3.0
   custom_marker:
     path: ../
 
